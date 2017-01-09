@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="95456" started-at="2017-01-09T05:04:43Z" finished-at="2017-01-09T05:06:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="95456" started-at="2017-01-09T05:04:43Z" finished-at="2017-01-09T05:06:19Z">
+      <class name="testcases.TC001_Login">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="beforeSuite" is-config="true" duration-ms="868" started-at="2017-01-09T10:34:42Z" finished-at="2017-01-09T10:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-01-09T10:34:43Z" finished-at="2017-01-09T10:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-01-09T10:34:43Z" finished-at="2017-01-09T10:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="beforeMethod" is-config="true" duration-ms="22238" started-at="2017-01-09T10:34:44Z" finished-at="2017-01-09T10:35:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC001_Login@1f983a6]" name="login" duration-ms="26944" started-at="2017-01-09T10:35:06Z" data-provider="fetchData" finished-at="2017-01-09T10:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pandiicici]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kavitha@08]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1,251.96]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SivaCP]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[039501527472]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[039501527472]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="afterMethod" is-config="true" duration-ms="903" started-at="2017-01-09T10:35:33Z" finished-at="2017-01-09T10:35:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="beforeMethod" is-config="true" duration-ms="13706" started-at="2017-01-09T10:35:34Z" finished-at="2017-01-09T10:35:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC001_Login@1f983a6]" name="login" duration-ms="29975" started-at="2017-01-09T10:35:48Z" data-provider="fetchData" finished-at="2017-01-09T10:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pandiicici]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kavitha@08]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1,251.96]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SOMU]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Raju]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[039501527472]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[039501527472]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="afterMethod" is-config="true" duration-ms="911" started-at="2017-01-09T10:36:18Z" finished-at="2017-01-09T10:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-01-09T10:36:19Z" finished-at="2017-01-09T10:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC001_Login@1f983a6]" name="afterSuite" is-config="true" duration-ms="576" started-at="2017-01-09T10:36:19Z" finished-at="2017-01-09T10:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC001_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
